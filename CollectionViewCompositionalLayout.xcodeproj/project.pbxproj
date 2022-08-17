@@ -13,6 +13,7 @@
 		7053EB8D28ACCF680091D6D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7053EB8B28ACCF680091D6D3 /* Main.storyboard */; };
 		7053EB8F28ACCF6B0091D6D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7053EB8E28ACCF6B0091D6D3 /* Assets.xcassets */; };
 		7053EB9228ACCF6B0091D6D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7053EB9028ACCF6B0091D6D3 /* LaunchScreen.storyboard */; };
+		7053EB9A28ACE9350091D6D3 /* CompositionalLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7053EB9928ACE9350091D6D3 /* CompositionalLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7053EB8E28ACCF6B0091D6D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7053EB9128ACCF6B0091D6D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7053EB9328ACCF6B0091D6D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7053EB9928ACE9350091D6D3 /* CompositionalLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompositionalLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7053EB8E28ACCF6B0091D6D3 /* Assets.xcassets */,
 				7053EB9028ACCF6B0091D6D3 /* LaunchScreen.storyboard */,
 				7053EB9328ACCF6B0091D6D3 /* Info.plist */,
+				7053EB9928ACE9350091D6D3 /* CompositionalLayout.swift */,
 			);
 			path = CollectionViewCompositionalLayout;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				7053EB8A28ACCF680091D6D3 /* ViewController.swift in Sources */,
 				7053EB8628ACCF680091D6D3 /* AppDelegate.swift in Sources */,
 				7053EB8828ACCF680091D6D3 /* SceneDelegate.swift in Sources */,
+				7053EB9A28ACE9350091D6D3 /* CompositionalLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
